@@ -107,7 +107,7 @@ Each test includes screenshot capture and console logging for test progress trac
 
 Screenshots are automatically captured during test execution and saved as:
 
-- ![Test Report](./screenshots/text-verification.png)
+![Test Report](./screenshots/text-verification.png)
 
 ## 📊 Test Report
 
@@ -134,4 +134,4 @@ Below is an example of the generated Allure report after running the tests:
 _Senior Software Quality Assurance_  
 📍 Jakarta, Indonesia
 
-🔗 [LinkedIn](https://www.linkedin.com/in/elsafarahfauzia/) | [GitHub](https://github.com/elsafarahhf)
+🔗 [LinkedIn](https://www.linkedin.com/in/elsafarahfauzia/) | [GitHub](https://github.com/elsafarahf)
