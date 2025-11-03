@@ -19,6 +19,9 @@ appium_mobile_setup/
 ├── test/
 │   └── appdemo.test.js                      # API Demos app tests
 │
+├── screenshots/
+│   └── text-verification.png                # Test screenshots
+│
 ├── report/
 │   ├── allure-mobile-test-report.png        # Test report overview
 │   └── allure-mobile-test-report-detail.png # Test report detailed view
