@@ -107,7 +107,7 @@ Each test includes screenshot capture and console logging for test progress trac
 
 Screenshots are automatically captured during test execution and saved as:
 
-![Test Report](./screenshots/text-verification.png)
+<img src="./screenshots/text-verification.png" alt="Test Report" width="400">
 
 ## 📊 Test Report
 
