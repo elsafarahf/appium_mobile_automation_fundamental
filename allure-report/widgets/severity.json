@@ -1,0 +1,1 @@
+[{"uid":"42b6d00ef842d28c","name":"should launch app successfully","time":{"start":1762178307725,"stop":1762178310838,"duration":3113},"status":"passed","severity":"normal"},{"uid":"ff2d5c8345317c46","name":"should verify all text in API Demos","time":{"start":1762178310840,"stop":1762178313968,"duration":3128},"status":"passed","severity":"normal"}]

@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3113","should launch app successfully","","Mon Nov 03 20:58:27 WIB 2025","passed","Mon Nov 03 20:58:30 WIB 2025","","API Demos App","",""
+"","3128","should verify all text in API Demos","","Mon Nov 03 20:58:30 WIB 2025","passed","Mon Nov 03 20:58:33 WIB 2025","","API Demos App","",""
